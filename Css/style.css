@@ -1,0 +1,26 @@
+nav {
+    background-color: rgb(103, 110, 244);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+ul{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* margin: auto; */
+}
+li {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    background-attachment: fixed;
+    background-color: aqua;
+}
+main {
+    background-color: aquamarine;
+}
+p {
+    color: rgb(0, 0, 0);
+}
